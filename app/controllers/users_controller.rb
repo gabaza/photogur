@@ -23,6 +23,10 @@ def create
     end
 end
 
+#show method not needed 
+# def show
+#   @user = User.find(params[:id])
+# end
 
 
 end
